@@ -2,7 +2,9 @@
 Modeling CO2 Emissions Prediction for Car Engines
 
 Developed a robust predictive model to estimate CO2 emissions based on various car engine features, aiding automotive companies in environmental impact assessments and compliance with regulatory standards.
+
 Project details:
+
 Data Set:
 Utilized a comprehensive dataset containing information on car make, model, engine size, cylinders, transmission type, fuel type, and fuel consumption ratings.
   Variables:
